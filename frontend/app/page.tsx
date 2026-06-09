@@ -30,7 +30,7 @@ export default function UltraPremiumDashboard() {
     formData.append("file", file);
     try {
       // ⚠️ DOUBLE CHECK: Swap this URL with your actual live Render endpoint!
-      const response = await fetch("https://uae-document-analyzer.onrender.com", { 
+      const response = await fetch("https://uae-document-analyzer.onrender.com/analyze", { 
         method: "POST", 
         body: formData 
       });
