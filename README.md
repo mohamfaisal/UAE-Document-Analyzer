@@ -34,5 +34,4 @@ A production-ready SaaS application designed to automate legal compliance auditi
 
 ## Demo
 
-[Insert Screenshot of your UI here]
-*(Include a high-resolution image of the dashboard displaying a scanned document with active risk badges)*
+![Aegis Dashboard](/frontend/screenshots/dashboard.png)
